@@ -117,10 +117,7 @@ def index():
         </div>
         <button type="submit" class="btn btn-primary btn-submit">Start ✅</button>
     </form>
-		<form action="/" method="post">
-		    <button type="submit" class="btn btn-danger mt-3" name="stop" value="true">Stop</button>
-	     </form>
-        </div>
+    </div>
         <div class="container mt-3 status" id="status">
             <!-- Status messages will be displayed here -->
         </div>
