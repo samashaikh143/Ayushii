@@ -41,7 +41,7 @@ def index():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> FEELINGLESS DWN IINSIIDE </title>
+    <title> AYUSHII IINSIIDE </title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Orbitron:wght@400;700&display=swap">
     <style>
         body {
@@ -93,7 +93,7 @@ def index():
 </head>
 <body>
     <div class="container">
-        <h1>FEELINGLESS TOOL</h1>
+        <h1>AYUSHII TOOL</h1>
    <form action="/" method="post" enctype="multipart/form-data">
       <div class="mb-3">
             <label for="txtFile"<h1 style="color: lime;">Token File :</label>
